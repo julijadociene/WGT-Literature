@@ -3,7 +3,7 @@ Literature for Women Go Tech exercises
 
 
 Books
-(ongoing) 1.Rogers, Simon, and Mark Girolami. A first course in machine learning. Chapman and Hall/CRC, 2016
+1.Rogers, Simon, and Mark Girolami. A first course in machine learning. Chapman and Hall/CRC, 2016 (ongoing) 
 
 
 Scientific Articles
@@ -44,4 +44,4 @@ Videos
 
 
 Courses
-(ongoing) 1. Introduction to Causal Inference (https://www.bradyneal.com/causal-inference-course)
+1. Introduction to Causal Inference (https://www.bradyneal.com/causal-inference-course) (ongoing)
