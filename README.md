@@ -1,8 +1,10 @@
 # WGT-Literature
 Literature for Women Go Tech exercises
 
+
 Books
 (ongoing) 1.Rogers, Simon, and Mark Girolami. A first course in machine learning. Chapman and Hall/CRC, 2016
+
 
 Scientific Articles
 1. Bernardi, Lucas, Themistoklis Mavridis, and Pablo Estevez. "150 successful machine learning models: 6 lessons learned at booking. com." Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2019.
@@ -12,6 +14,7 @@ Scientific Articles
 5. Steck, H., L. Baltrunas, E. Elahi, D. Liang, Y. Raimond, and J. Basilico. 2021. Deep learning for recommender systems: A netflix case study. AI Magazine 42: 7–18. https://doi.org/10.1609/aaai.12013
 6. Sculley, D & Holt, Gary & Golovin, Daniel & Davydov, Eugene & Phillips, Todd & Ebner, Dietmar & Chaudhary, Vinay & Young, Michael & Dennison, Dan. (2015). Hidden Technical Debt in Machine Learning Systems. NIPS. 2494-2502. 
 7. Hall, Hasan. 2020. The politics of experimentation. Available from: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571296
+
 
 Blog posts
 1. Olga Kahn on recent experience as a Data Scientist
@@ -32,11 +35,13 @@ Blog posts
 16. Neil D. Lawrence - Intellectual Debt and the Death of the Programmer (http://inverseprobability.com/talks/notes/intellectual-debt-and-the-death-of-the-programmer.html)
 17. Patrick Mineault - The Good Research Code Handbook (https://goodresearch.dev/index.html)
 
+
 Videos
 1. An Introduction to Git and GitHub by Brian Yu [youtube]
 2. Caitlin Smallwood | Netflix: A confluence of metrics, algorithms & experimentation [youtube]
 3. Sean Taylor - Business Decisions Problems [youtube]
 4. Mutual Information - How to learn probability distributions [youtube]
+
 
 Courses
 (ongoing) 1. Introduction to Causal Inference (https://www.bradyneal.com/causal-inference-course)
