@@ -3,7 +3,7 @@ Literature for Women Go Tech exercises
 
 
 Books
-1.Rogers, Simon, and Mark Girolami. A first course in machine learning. Chapman and Hall/CRC, 2016 (ongoing) 
+1. Rogers, Simon, and Mark Girolami. A first course in machine learning. Chapman and Hall/CRC, 2016 (ongoing) 
 
 
 Scientific Articles
