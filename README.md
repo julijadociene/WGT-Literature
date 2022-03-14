@@ -12,8 +12,7 @@ Scientific Articles
 3. Sculley, David, et al. "Hidden technical debt in machine learning systems." Advances in neural information processing systems 28 (2015): 2503-2511.
 4. Kim, H. &amp; Ghahramani, Z.. (2012). Bayesian Classifier Combination. <i>Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 22:619-627 Available from https://proceedings.mlr.press/v22/kim12.html.
 5. Steck, H., L. Baltrunas, E. Elahi, D. Liang, Y. Raimond, and J. Basilico. 2021. Deep learning for recommender systems: A netflix case study. AI Magazine 42: 7–18. https://doi.org/10.1609/aaai.12013
-6. Sculley, D & Holt, Gary & Golovin, Daniel & Davydov, Eugene & Phillips, Todd & Ebner, Dietmar & Chaudhary, Vinay & Young, Michael & Dennison, Dan. (2015). Hidden Technical Debt in Machine Learning Systems. NIPS. 2494-2502. 
-7. Hall, Hasan. 2020. The politics of experimentation. Available from: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571296
+6. Hall, Hasan. 2020. The politics of experimentation. Available from: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571296
 
 
 Blog posts
