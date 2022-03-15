@@ -33,6 +33,7 @@ Blog posts
 15. Victoria Osterloh - Marketing A/B Testing at Zalando (https://towardsdatascience.com/marketing-a-b-testing-at-zalando-c069195bfe14)
 16. Neil D. Lawrence - Intellectual Debt and the Death of the Programmer (http://inverseprobability.com/talks/notes/intellectual-debt-and-the-death-of-the-programmer.html)
 17. Patrick Mineault - The Good Research Code Handbook (https://goodresearch.dev/index.html)
+18. Zachary C. Lipton - The Deception of Supervised Learning – V2(https://www.approximatelycorrect.com/2017/02/14/the-deception-of-supervised-learning-v2/)
 
 
 Videos
