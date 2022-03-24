@@ -13,6 +13,8 @@ Scientific Articles
 4. Kim, H. &amp; Ghahramani, Z.. (2012). Bayesian Classifier Combination. <i>Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 22:619-627 Available from https://proceedings.mlr.press/v22/kim12.html.
 5. Steck, H., L. Baltrunas, E. Elahi, D. Liang, Y. Raimond, and J. Basilico. 2021. Deep learning for recommender systems: A netflix case study. AI Magazine 42: 7–18. https://doi.org/10.1609/aaai.12013
 6. Hall, Hasan. 2020. The politics of experimentation. Available from: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571296
+7. David J. Hand "Classifier Technology and the Illusion of Progress," Statistical Science, Statist. Sci. 21(1), 1-14, (February 2006)
+8. Liley, James & Emerson, Samuel & Mateen, Bilal & Vallejos, Catalina & Aslett, Louis & Vollmer, Sebastian. (2020). Model updating after interventions paradoxically introduces bias. 
 
 
 Blog posts
@@ -34,6 +36,7 @@ Blog posts
 16. Neil D. Lawrence - Intellectual Debt and the Death of the Programmer (http://inverseprobability.com/talks/notes/intellectual-debt-and-the-death-of-the-programmer.html)
 17. Patrick Mineault - The Good Research Code Handbook (https://goodresearch.dev/index.html)
 18. Zachary C. Lipton - The Deception of Supervised Learning – V2(https://www.approximatelycorrect.com/2017/02/14/the-deception-of-supervised-learning-v2/)
+19. The Deception of Supervised Learning – V2 (https://www.approximatelycorrect.com/2017/02/14/the-deception-of-supervised-learning-v2/)
 
 
 Videos
