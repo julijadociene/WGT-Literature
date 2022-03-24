@@ -16,18 +16,18 @@ Scientific Articles
 
 
 Blog posts
-1. Olga Kahn on recent experience as a Data Scientist
-2. Gibson Biddle on A Brief History of Netflix Personalization (Part One, from 1998 to 2006)
-3. David Ziganto on Simulated Datasets for Faster ML Understanding 
-4. Zachary Lipton on The Deception of Supervised Learning
-5. Peter Baumgartner on Ways I Use Testing as a Data Scientist 
-6. Sean Taylor on Designing and Evaluating metrics 
-7. Emmanuel Ameisen on Always start with a stupid model, no exceptions 
-8. Zachary Thomas on The Definitive Guide to Designing Product Metrics 
-9. Sean Taylor on Real scientists make their own data 
-10. Bret Victor on Up and Down the Ladder of Abstraction 
-11. Edoardo Conti on Offline Policy Evaluation: Run fewer, better A/B tests 
-12. David Robinson on Scientific Debt
+1. Olga Kahn on recent experience as a Data Scientist (http://olgakahn.com/projects/recap)
+2. Gibson Biddle on A Brief History of Netflix Personalization (Part One, from 1998 to 2006) (https://askgib.substack.com/p/a-brief-history-of-netflix-personalization?s=r)
+3. David Ziganto on Simulated Datasets for Faster ML Understanding (https://dziganto.github.io/data%20science/eda/machine%20learning/python/simulated%20data/Simulated-Datasets-for-Faster-ML-Understanding/)
+4. Zachary Lipton on The Deception of Supervised Learning (https://www.approximatelycorrect.com/2017/02/14/the-deception-of-supervised-learning-v2/)
+5. Peter Baumgartner on Ways I Use Testing as a Data Scientist (https://www.peterbaumgartner.com/blog/testing-for-data-science/)
+6. Sean Taylor on Designing and Evaluating metrics (https://medium.com/@seanjtaylor/designing-and-evaluating-metrics-5902ad6873bf)
+7. Emmanuel Ameisen on Always start with a stupid model, no exceptions (https://blog.insightdatascience.com/always-start-with-a-stupid-model-no-exceptions-3a22314b9aaa)
+8. Zachary Thomas on The Definitive Guide to Designing Product Metrics (https://towardsdatascience.com/the-definitive-guide-to-designing-product-metrics-ba5d9e8e07e9)
+9. Sean Taylor on Real scientists make their own data (https://seanjtaylor.com/2013/01/26/real-scientists-make-their-own-data.html)
+10. Bret Victor on Up and Down the Ladder of Abstraction (http://worrydream.com/LadderOfAbstraction/)
+11. Edoardo Conti on Offline Policy Evaluation: Run fewer, better A/B tests (https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15)
+12. David Robinson on Scientific Debt (http://varianceexplained.org/r/scientific-debt/)
 13. Permanently remove files and folders from Git repo (https://dalibornasevic.com/posts/2-permanently-remove-files-and-folders-from-a-git-repository)
 14. Kamer Toker-Yildiz, Colin McFarland, Julia Glick - Key Challenges with Quasi Experiments at Netflix (https://netflixtechblog.com/key-challenges-with-quasi-experiments-at-netflix-89b4f234b852)
 15. Victoria Osterloh - Marketing A/B Testing at Zalando (https://towardsdatascience.com/marketing-a-b-testing-at-zalando-c069195bfe14)
@@ -37,10 +37,11 @@ Blog posts
 
 
 Videos
-1. An Introduction to Git and GitHub by Brian Yu [youtube]
-2. Caitlin Smallwood | Netflix: A confluence of metrics, algorithms & experimentation [youtube]
-3. Sean Taylor - Business Decisions Problems [youtube]
-4. Mutual Information - How to learn probability distributions [youtube]
+1. An Introduction to Git and GitHub by Brian Yu (https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+2. Caitlin Smallwood | Netflix: A confluence of metrics, algorithms & experimentation (https://www.youtube.com/watch?v=K4FRu6iIgOA)
+3. Sean Taylor - Business Decisions Problems (https://www.youtube.com/watch?v=ceCQh73dU98)
+4. Mutual Information - How to learn probability distributions (https://www.youtube.com/watch?v=mBCiKUzwdMs)
+5. Science as Amateur Software Development (https://www.youtube.com/watch?v=zwRdO9_GGhY)
 
 
 Courses
