@@ -37,6 +37,9 @@ Blog posts
 17. Patrick Mineault - The Good Research Code Handbook (https://goodresearch.dev/index.html)
 18. Zachary C. Lipton - The Deception of Supervised Learning – V2(https://www.approximatelycorrect.com/2017/02/14/the-deception-of-supervised-learning-v2/)
 19. The Deception of Supervised Learning – V2 (https://www.approximatelycorrect.com/2017/02/14/the-deception-of-supervised-learning-v2/)
+20. Real-time machine learning: challenges and solutions (https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
+21. Docker for data scientists — Part 1 (https://towardsdatascience.com/docker-for-data-scientists-part-1-41b0725d4a50)
+22. Feature Engineering for Machine Learning: 10 Examples (https://www.kdnuggets.com/2018/12/feature-engineering-explained.html#:~:text=Feature%20Engineering%20Example%3A%20Continuous%20data&text=It%20can%20take%20any%20values,mostly%20on%20the%20domain%20data.)
 
 
 Videos
@@ -45,6 +48,7 @@ Videos
 3. Sean Taylor - Business Decisions Problems (https://www.youtube.com/watch?v=ceCQh73dU98)
 4. Mutual Information - How to learn probability distributions (https://www.youtube.com/watch?v=mBCiKUzwdMs)
 5. Science as Amateur Software Development (https://www.youtube.com/watch?v=zwRdO9_GGhY)
+6. CS50 2020 - Lecture 0 - Lecture 4 (https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 
 
 Courses
