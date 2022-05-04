@@ -40,6 +40,7 @@ Blog posts
 20. Real-time machine learning: challenges and solutions (https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html)
 21. Docker for data scientists — Part 1 (https://towardsdatascience.com/docker-for-data-scientists-part-1-41b0725d4a50)
 22. Feature Engineering for Machine Learning: 10 Examples (https://www.kdnuggets.com/2018/12/feature-engineering-explained.html#:~:text=Feature%20Engineering%20Example%3A%20Continuous%20data&text=It%20can%20take%20any%20values,mostly%20on%20the%20domain%20data.)
+23. 'Automating' DVC stage generation (https://www.guidodiepen.nl/2021/03/automating-dvc-stage-generation/)
 
 
 Videos
